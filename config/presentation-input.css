@@ -1,0 +1,7 @@
+input[id] {
+    @apply text-lg;
+}
+
+input[id]::placeholder {
+    @apply text-sm focus:opacity-40;
+}

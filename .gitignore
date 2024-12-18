@@ -1,0 +1,14 @@
+.DS_Store
+.classpath.txt
+.classpath
+.project
+.settings
+*.iml
+.out
+
+**/target
+.idea
+.vscode
+.amplify
+.next
+node_modules
